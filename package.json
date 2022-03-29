@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trasherdk/node-passport-sequelize-pug.git"
+    "url": "git+https://github.com/trasherdk/node-passport-sequelize-handlebars.git"
   },
   "keywords": [
     "express",
